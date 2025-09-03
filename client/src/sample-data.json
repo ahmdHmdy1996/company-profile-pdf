@@ -1,0 +1,81 @@
+{
+  "rtl": false,
+  "brand": {
+    "color": "#6366f1",
+    "accent": "#10b981"
+  },
+  "logo": null,
+  "company": {
+    "name": "Team Arabia Company",
+    "tagline": "MEP Testing & Commissioning Excellence",
+    "location": "Riyadh, Kingdom of Saudi Arabia"
+  },
+  "about": "We are a leading provider of Commissioning (CxA), HVAC Testing & Balancing, Electrical Testing & Commissioning, and O&M Manual services across the Kingdom of Saudi Arabia. Our team combines technical expertise with international standards to deliver exceptional results for our clients.",
+  "clients": [
+    "Saudi Electricity Company (SEC)",
+    "Saudi Basic Industries Corporation (SABIC)",
+    "Saudi Aramco",
+    "Ministry of Municipal and Rural Affairs (MOMRA)",
+    "King Khalid International Airport",
+    "Haramain High Speed Railway"
+  ],
+  "services": [
+    "Commissioning (CxA) Services",
+    "HVAC Testing, Adjusting & Balancing",
+    "Electrical Testing & Commissioning",
+    "Operation & Maintenance Manuals",
+    "Energy Efficiency Consulting",
+    "Building Performance Assessment"
+  ],
+  "projects": [
+    {
+      "name": "King Khalid International Airport – Terminal 1 & 2 Expansion",
+      "year": "2020-2022"
+    },
+    {
+      "name": "Haramain High Speed Rail Project",
+      "year": "2019-2020"
+    },
+    {
+      "name": "NEOM Smart City Infrastructure",
+      "year": "2021-2023"
+    },
+    {
+      "name": "King Salman Energy Park (SPARK)",
+      "year": "2022-2024"
+    }
+  ],
+  "contacts": {
+    "phone": "+966-11-555-5555",
+    "email": "info@teamarabia.com",
+    "website": "www.teamarabia.com"
+  },
+  "team": [
+    {
+      "name": "Murad Al-Jammal",
+      "title": "Executive Manager & Senior CxA",
+      "bio": "NEBB Certified Professional with over 15 years of experience in MEP commissioning and project management across the Middle East region."
+    },
+    {
+      "name": "Abed Alqader Hamdan",
+      "title": "Operations Manager",
+      "bio": "NEBB Certified Professional specializing in HVAC systems testing and balancing with extensive experience in large-scale commercial projects."
+    },
+    {
+      "name": "Dr. Sarah Al-Rashid",
+      "title": "Technical Director",
+      "bio": "PhD in Mechanical Engineering with expertise in energy efficiency and sustainable building systems. Leads our technical innovation initiatives."
+    },
+    {
+      "name": "Ahmed Al-Mansouri",
+      "title": "Lead Electrical Engineer",
+      "bio": "Certified Electrical Testing & Commissioning specialist with experience in power systems for critical infrastructure projects."
+    }
+  ],
+  "approvals": [
+    "Saudi Electricity Company (SEC) Approved Contractor (2021)",
+    "King Khalid International Airport Certified Vendor (2020)",
+    "Saudi Aramco Approved Service Provider (2019)",
+    "MOMRA Registered Technical Consultant (2018)"
+  ]
+}
